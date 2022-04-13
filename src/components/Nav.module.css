@@ -1,0 +1,15 @@
+
+
+.Nav {
+    background-color: #1877f2;
+}
+
+.Home{
+    display: inline;
+    cursor: pointer;
+}
+
+
+.Home :hover {
+}
+
